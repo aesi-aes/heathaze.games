@@ -6,8 +6,8 @@
   <title>Heat Haze Games 🔥</title>
 </svelte:head>
 
-<main class="flex flex-col flex-grow w-full mx-auto max-w-5xl h-full gap-24">
-  <header class="flex gap-10 items-center">
+<main class="flex flex-col flex-grow w-full mx-auto max-w-5xl h-full gap-16">
+  <header class="flex gap-10 items-center border-b border-white pb-8">
     <a href="/">
       <img src="/heathaze.webp" class="max-w-40 aspect-auto" alt="Heat Haze Games logo" /></a
     >
