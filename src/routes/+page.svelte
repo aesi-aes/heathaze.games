@@ -1,7 +1,3 @@
-<header>
-  <img src="/heathaze.webp" class="max-w-40" alt="Heat Haze Games logo" />
-</header>
-
 <div class="h-full flex justify-start items-center flex-col gap-8">
   <img src="/laserknights.webp" class="max-w-80" alt="Tales of the Laser Knights" />
   <p class="font-bold text-lg">
