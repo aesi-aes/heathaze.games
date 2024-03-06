@@ -1,22 +1,19 @@
 <div class="h-full flex justify-start items-center flex-col gap-8">
   <img src="/laserknights.webp" class="max-w-80" alt="Tales of the Laser Knights" />
-  <p class="font-bold text-lg drop-shadow-text">
-    I'm Denzi, solo indie developer of "Tales of the Laser Knights", with over 10 years of game
-    development experiene (Carcassonne, Catan Universe, Toggolino, Diamond Dash, Jelly Splash).
+  <p class="font-bold text-lg drop-shadow-text text-center">
+    Zak needs to save the galaxy!
     <br /><br />
-    I started developing "Tales of the Laser Knights" in ~ April 2024, because I wanted to build a game
-    like Mystic Quest (Game Boy), or the old 2d Zeldas (ALTTP, Link's Awakening), but set in a SCI-FI
-    universe... it had to be Sci-Fi, since I was mostly influenced by (of course) Star Wars, Star Trek,
-    Flash Gordon, and other trash sci-fi movies... not so much fantasy, but also the 80ies were heavy
-    incluences: Captain Future, Indiana Jones, Ghostbusters, The Goonies, Innerspace, ... or be it the
-    books by such great SF authors like William Gibson, Dan Simmons, Peter F. Hammilton... the list goes
-    on and on :)
+    Explore all 5 known planets, upgrade your Laser Katana©, learn how to fight the evil ... and go on
+    an intergalactic adventure, in this sci-fi b-movie Action-RPG!
     <br /><br />
-    Currently working towards a Demo Version which will include parts of the 1st planet that you will
-    travel in "Tales of the Laser Knights"... it will feature an Original Soundtrack, and 2d artwork
-    from Nadim "I'm not rude" Arnaout.
-    <br /><br />
-    Watch out for the upcoming Demo! Wishlist on Steam, if you like what you see :)
+    On a desert planet, the young boy Zak lives a boring life on a farm. One day he meets Ramius, an
+    old warrior - who tells him about the alien race of the Ancient, and how their technology (the Ancient
+    Orbs) once connected all known planets. Zak’s family took care of one Ancient Orbs for generations.
+    After it is stolen by unknown soldiers, Zak picks up Ramius’ old energy weapon and starts a journey
+    to the all planets, to find all crystals and reestablish what once was humanity’s connection between
+    the stars. On his way, he finds blueprints of new Ancient technology that lets him advance his weapon.
+    Only with these new features he can fulfill all challenges on his path to the last planet, where
+    he has to fight the evil powers that stole the Orbs in the first.
   </p>
 </div>
 
