@@ -1,6 +1,6 @@
 <div class="h-full flex justify-start items-center flex-col gap-8">
   <img src="/laserknights.webp" class="max-w-80" alt="Tales of the Laser Knights" />
-  <p class="font-bold text-lg">
+  <p class="font-bold text-lg drop-shadow-text">
     I'm Denzi, solo indie developer of "Tales of the Laser Knights", with over 10 years of game
     development experiene (Carcassonne, Catan Universe, Toggolino, Diamond Dash, Jelly Splash).
     <br /><br />
@@ -20,6 +20,6 @@
   </p>
 </div>
 
-<div class="fixed bottom-0 right-16 -z-10">
+<div class="absolute bottom-0 right-16 -z-10">
   <img src="/zak.webp" class="max-w-80" alt="Zak, the hero of the Laser Knights" />
 </div>
