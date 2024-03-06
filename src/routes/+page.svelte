@@ -5,15 +5,26 @@
     <br /><br />
     Explore all 5 known planets, upgrade your Laser Katana©, learn how to fight the evil ... and go on
     an intergalactic adventure, in this sci-fi b-movie Action-RPG!
-    <br /><br />
+  </p>
+  <iframe
+    class="max-w-lg aspect-video"
+    width="1383"
+    src="https://www.youtube.com/embed/JzAszxhmmRs"
+    title="Tales of the LASER KNIGHTS - Teaser IV 2023"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+  />
+  <p class="drop-shadow-text text-center">
     On a desert planet, the young boy Zak lives a boring life on a farm. One day he meets Ramius, an
-    old warrior - who tells him about the alien race of the Ancient, and how their technology (the Ancient
-    Orbs) once connected all known planets. Zak’s family took care of one Ancient Orbs for generations.
-    After it is stolen by unknown soldiers, Zak picks up Ramius’ old energy weapon and starts a journey
-    to the all planets, to find all crystals and reestablish what once was humanity’s connection between
-    the stars. On his way, he finds blueprints of new Ancient technology that lets him advance his weapon.
-    Only with these new features he can fulfill all challenges on his path to the last planet, where
-    he has to fight the evil powers that stole the Orbs in the first.
+    old warrior - who tells him about the alien race of the Ancient, and how their technology (the
+    Ancient Orbs) once connected all known planets. Zak’s family took care of one Ancient Orbs for
+    generations. After it is stolen by unknown soldiers, Zak picks up Ramius’ old energy weapon and
+    starts a journey to the all planets, to find all crystals and reestablish what once was
+    humanity’s connection between the stars. On his way, he finds blueprints of new Ancient
+    technology that lets him advance his weapon. Only with these new features he can fulfill all
+    challenges on his path to the last planet, where he has to fight the evil powers that stole the
+    Orbs in the first.
   </p>
 </div>
 

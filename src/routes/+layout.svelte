@@ -30,6 +30,7 @@
     </div>
   </header>
   <slot />
+  <footer class="h-40"></footer>
 </main>
 
 <style>
