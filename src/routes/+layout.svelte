@@ -6,7 +6,7 @@
   <title>Heat Haze Games 🔥</title>
 </svelte:head>
 
-<main class="flex flex-col flex-grow w-full mx-auto max-w-7xl h-full gap-8 ">
+<main class="flex flex-col flex-grow w-full mx-auto max-w-5xl h-full gap-24 ">
   <slot />
 </main>
 
