@@ -7,7 +7,7 @@
     an intergalactic adventure, in this sci-fi b-movie Action-RPG!
   </p>
   <iframe
-    class="max-w-lg aspect-video"
+    class="max-w-lg aspect-video w-full"
     width="1383"
     src="https://www.youtube.com/embed/JzAszxhmmRs"
     title="Tales of the LASER KNIGHTS - Teaser IV 2023"
