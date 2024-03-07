@@ -1,11 +1,8 @@
-<div class="h-full flex justify-start items-center flex-col gap-8">
+<div
+  class="h-full flex justify-start items-center flex-col gap-8 font-bold text-lg drop-shadow-text text-center"
+>
   <img src="/laserknights.webp" class="max-w-80" alt="Tales of the Laser Knights" />
-  <p class="font-bold text-lg drop-shadow-text text-center">
-    Zak needs to save the galaxy!
-    <br /><br />
-    Explore all 5 known planets, upgrade your Laser Katana©, learn how to fight the evil ... and go on
-    an intergalactic adventure, in this sci-fi b-movie Action-RPG!
-  </p>
+  <p>Zak needs to save the galaxy!</p>
   <iframe
     class="max-w-lg aspect-video w-full"
     width="1383"
@@ -15,17 +12,18 @@
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
   />
-  <p class="drop-shadow-text text-center">
-    On a desert planet, the young boy Zak lives a boring life on a farm. One day he meets Ramius, an
-    old warrior - who tells him about the alien race of the Ancient, and how their technology (the
-    Ancient Orbs) once connected all known planets. Zak’s family took care of one Ancient Orbs for
-    generations. After it is stolen by unknown soldiers, Zak picks up Ramius’ old energy weapon and
-    starts a journey to the all planets, to find all crystals and reestablish what once was
-    humanity’s connection between the stars. On his way, he finds blueprints of new Ancient
-    technology that lets him advance his weapon. Only with these new features he can fulfill all
-    challenges on his path to the last planet, where he has to fight the evil powers that stole the
-    Orbs in the first.
+  <p>
+    Explore all 5 known planets, upgrade your Laser Katana©, learn how to fight the evil ... and go
+    on an intergalactic adventure, in this sci-fi b-movie Action-RPG!
   </p>
+
+  <a
+    href="https://store.steampowered.com/app/2512850/Tales_of_the_Laser_Knights/"
+    class="group font-bold text-2xl drop-shadow-text text-center flex flex-col items-center"
+  >
+    Wishlist on Steam
+    <div class="bg-white h-0.5 w-0 group-hover:w-full transition-all" />
+  </a>
 </div>
 
 <div class="absolute bottom-0 right-16 -z-10">
