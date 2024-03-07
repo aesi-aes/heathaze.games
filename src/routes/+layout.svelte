@@ -9,7 +9,7 @@
 <main class="flex flex-col flex-grow w-full mx-auto max-w-5xl h-full gap-16">
   <header class="flex gap-10 items-center justify-between border-b border-white pb-8 flex-col sm:flex-row">
     <a href="/">
-      <img src="/heathaze.webp" class="max-w-48" alt="Heat Haze Games logo" /></a
+      <img src="/heathaze.svg" class="max-w-40" alt="Heat Haze Games logo" /></a
     >
     <div class="flex gap-6 sm:gap-10 items-center">
       <a href="https://store.steampowered.com/app/2512850/Tales_of_the_Laser_Knights"
