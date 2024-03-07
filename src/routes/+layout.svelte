@@ -37,7 +37,7 @@
   :global(body) {
     background: rgb(12, 24, 62);
     background-repeat: no-repeat;
-    background-image: url('/banner.webp'),
+    background-image: url('/background.webp'),
       radial-gradient(at bottom, rgb(3, 129, 171) 0%, rgb(12, 24, 62) 100%);
     background-position: bottom;
     background-size: contain;
