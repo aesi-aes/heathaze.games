@@ -19,7 +19,7 @@
 
   <a
     href="https://store.steampowered.com/app/2512850/Tales_of_the_Laser_Knights/"
-    class="rounded-lg flex font-bold text-2xl drop-shadow-text gap-4 items-center py-2 px-4 border shadow-md hover:shadow-none hover:translate-y-0.5 transition-all"
+    class="bg-opacity-30 bg-darkblue rounded-lg flex font-bold text-2xl gap-4 items-center py-2 px-4 border shadow-md hover:shadow-none hover:translate-y-0.5 transition-all"
   >
     <img src="/steam.svg" class="w-14" />
     <div class="text-left leading-[.9]">
