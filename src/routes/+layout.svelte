@@ -30,7 +30,7 @@
     </div>
   </header>
   <slot />
-  <footer class="h-40"></footer>
+  <footer class="h-40 flex items-end"><a href="/imprint">Imprint</a></footer>
 </main>
 
 <style>
