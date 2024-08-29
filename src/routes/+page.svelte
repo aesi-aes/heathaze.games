@@ -16,7 +16,7 @@
     Explore all 5 known planets, upgrade your Laser Katana©, learn how to fight the evil ... and go
     on an intergalactic adventure, in this sci-fi b-movie Action-RPG!
   </p>
-  <div class='flex gap-10 items-center'>
+  <div class='flex gap-10 items-center sm:flex-row flex-col'>
     <a
       href="https://store.steampowered.com/app/2512850/Tales_of_the_Laser_Knights/"
       class="bg-opacity-30 bg-darkblue rounded-lg flex font-bold text-2xl gap-4 items-center py-2 px-4 border shadow-md hover:shadow-none hover:translate-y-0.5 transition-all"
