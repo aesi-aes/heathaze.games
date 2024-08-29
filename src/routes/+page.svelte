@@ -16,17 +16,22 @@
     Explore all 5 known planets, upgrade your Laser Katana©, learn how to fight the evil ... and go
     on an intergalactic adventure, in this sci-fi b-movie Action-RPG!
   </p>
-
-  <a
-    href="https://store.steampowered.com/app/2512850/Tales_of_the_Laser_Knights/"
-    class="bg-opacity-30 bg-darkblue rounded-lg flex font-bold text-2xl gap-4 items-center py-2 px-4 border shadow-md hover:shadow-none hover:translate-y-0.5 transition-all"
-  >
-    <img src="/steam.svg" class="w-14" />
-    <div class="text-left leading-[.9]">
-      <span>Wishlist on</span><br />
-      <span class="text-4xl">Steam</span>
-    </div>
-  </a>
+  <div class='flex gap-10 items-center'>
+    <a
+      href="https://store.steampowered.com/app/2512850/Tales_of_the_Laser_Knights/"
+      class="bg-opacity-30 bg-darkblue rounded-lg flex font-bold text-2xl gap-4 items-center py-2 px-4 border shadow-md hover:shadow-none hover:translate-y-0.5 transition-all"
+    >
+      <img src="/steam.svg" class="w-14" />
+      <div class="text-left leading-[.9]">
+        <span>Wishlist on</span><br />
+        <span class="text-4xl leading-none">Steam</span>
+      </div>
+    </a>
+    <a
+      class="text-2xl underline"
+      href="https://impress.games/press-kit/heat-haze-games/tales-of-the-laser-knights">PRESS KIT</a
+    >
+  </div>
 </div>
 
 <div class="absolute bottom-0 right-16 -z-10">
