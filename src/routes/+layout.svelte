@@ -15,17 +15,20 @@
       <a href="https://store.steampowered.com/app/2512850/Tales_of_the_Laser_Knights"
         ><img src="/steam.svg" alt="Steam" class="w-8" /></a
       >
+      <a href="https://discord.gg/nvNMYtn5H4"
+        ><img src="/discord.svg" alt="Discord" class="w-7" /></a
+      >
       <a href="https://www.tiktok.com/@realdenzi"
         ><img src="/tiktok.svg" alt="TikTok" class="w-7" /></a
+      >
+      <a href="https://bsky.app/profile/heathaze.games"
+      ><img src="/bluesky.svg" alt="Bluesky" class="w-7" /></a
       >
       <a href="https://www.youtube.com/@heathazegames5701"
         ><img src="/youtube.svg" alt="YouTube" class="w-9" /></a
       >
       <a href="https://www.instagram.com/heathazegames/"
         ><img src="/instagram.svg" alt="Instagram" class="w-8" /></a
-      >
-      <a href="https://discord.gg/nvNMYtn5H4"
-        ><img src="/discord.svg" alt="Discord" class="w-7" /></a
       >
     </div>
   </header>
