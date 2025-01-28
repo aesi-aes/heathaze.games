@@ -19,7 +19,7 @@
         ><img src="/discord.svg" alt="Discord" class="w-7" /></a
       >
       <a href="https://www.tiktok.com/@realdenzi"
-        ><img src="/tiktok.svg" alt="TikTok" class="w-7" /></a
+        ><img src="/tiktok.svg" alt="TikTok" class="w-6" /></a
       >
       <a href="https://bsky.app/profile/heathaze.games"
       ><img src="/bluesky.svg" alt="Bluesky" class="w-7" /></a
