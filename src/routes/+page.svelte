@@ -6,8 +6,8 @@
   <iframe
     class="max-w-lg aspect-video w-full"
     width="1383"
-    src="https://www.youtube.com/embed/N90Rx2Spm6U"
-    title="Tales of the LASER KNIGHTS - Teaser IV 2023"
+    src="https://www.youtube.com/embed/LBc1jMxD_rU"
+    title="Tales of the LASER KNIGHTS - Gameplay Trailer"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
